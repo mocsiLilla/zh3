@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh3", "zh3\zh3.csproj", "{99EA7836-78D7-4056-84FC-1C3D3C553C26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh3", "zh3\zh3.csproj", "{99EA7836-78D7-4056-84FC-1C3D3C553C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokes", "Jokes\Jokes.csproj", "{55E0A361-D348-452B-BBEE-6CD9F526965A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99EA7836-78D7-4056-84FC-1C3D3C553C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99EA7836-78D7-4056-84FC-1C3D3C553C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99EA7836-78D7-4056-84FC-1C3D3C553C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E0A361-D348-452B-BBEE-6CD9F526965A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E0A361-D348-452B-BBEE-6CD9F526965A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E0A361-D348-452B-BBEE-6CD9F526965A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E0A361-D348-452B-BBEE-6CD9F526965A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
